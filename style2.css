@@ -1,0 +1,387 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+}
+.ad1{
+    color: blanchedalmond;
+    position: absolute;
+    top: 14px;
+    left: 500px;
+}
+.box2{
+    background-color: blanchedalmond;
+    height: 80px;
+    width: 100%;
+}
+.boat{
+    height: 40px;
+    width: 88px;
+    position: absolute;
+    top: 60px;
+    left: 35px;
+
+}
+.catogories{
+    border-radius: 8px;
+    background-color: rgb(248, 240, 240);
+    color: rgb(253, 251, 251);
+    position: absolute;
+    top: 75px;
+    left: 290px
+}
+.dailydeals{
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(253, 252, 252);
+    position: absolute;
+    top: 75px;
+    left: 460px;
+}
+.blackfriday{
+    border-radius: 10px;
+    background-color: black;
+    color: rgb(253, 251, 251);
+    position: absolute;
+    top: 75px;
+    left: 600px;
+}
+.more{
+    border-radius: 10px;
+    height: 25px;
+    width: 60px;
+    color: black;
+    position: absolute;
+    top: 75px;
+    left: 740px;
+}
+.box3{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(221, 219, 215);
+    height: 80px;
+    width: 97%;
+}
+.warranty1{
+    width: 80px;
+    height: 90px;
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+.replacement1{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 130px;
+    left: 330px;
+}  
+.shipping1{
+    width: 80px;
+    height: 90px;
+    position: absolute;
+    top: 130px;
+    left: 570px;
+}
+.checkout1{
+    width: 80px;
+    height: 90px;
+    position: absolute;
+    top: 130px;
+    left: 830px;
+}
+.billing1{
+    width: 80px;
+    height: 90px;
+    position: absolute;
+    top: 130px;
+    left: 1070px;
+} 
+.warranty2{
+    position: absolute;
+    top: 150px;
+    left: 170px;
+} 
+.replacement2{
+    position: absolute;
+    top: 150px;
+    left: 430px;
+} 
+.shipping2{
+    position: absolute;
+    top: 150px;
+    left: 670px;
+} 
+.checkout2{
+    position: absolute;
+    top: 150px;
+    left: 915px;
+} 
+.billing2{
+    position: absolute;
+    top: 150px;
+    left: 1200px;
+} 
+.box4{
+    background-image: url(https://cdn.shopify.com/s/files/1/0057/8938/4802/files/web-banner-final_777f3e08-3049-4cf0-afaa-ecda1ab58e73_1400x.png?v=1669384025) ;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(221, 219, 215);
+    height: 500px;
+    width: 97%;
+}
+.box5{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(207, 235, 241);
+    height: 400px;
+    width: 97%;
+}
+.image1{
+    position: absolute;
+    left: 100px;
+    top: 780px;
+}
+.image2{
+    position: absolute;
+    left: 250px;
+    top: 780px;
+}
+.image3{
+    position: absolute;
+    left: 400px;
+    top: 780px;
+}
+.image4{
+    position: absolute;
+    left: 550px;
+    top: 780px;
+}
+.image5{
+    position: absolute;
+    left: 700px;
+    top: 780px;
+}
+.image06{
+    position: absolute;
+    top: 780px;
+    left: 850px;
+}
+.image7{
+    position: absolute;
+    top: 780px;
+    left: 1000px;
+}
+.image8{
+    position: absolute;
+    top: 780px;
+    left: 1150px;
+}
+.image9{
+    position: absolute;
+    top: 980px;
+    left: 100px;
+}
+.image10{
+    position: absolute;
+    top: 980px;
+    left: 250px;
+}
+.image11{
+    position: absolute;
+    top: 980px;
+    left: 400px;
+}
+.image12{
+    position: absolute;
+    top: 980px;
+    left: 550px;
+}
+.image13{
+    position: absolute;
+    top: 0px;
+    left: 150px;
+}
+.image14{
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
+.image15{
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+.image16{
+    position: absolute;
+    top: 0px;
+    left: 600px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+.box6{
+    background-color: rgb(155, 211, 243);
+    position: absolute;
+    top: 1150px;
+    height: 450px;
+    width: 97%;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.image6{
+    position: relative;
+    top: 80px;
+    left: 60px;
+    width: 300px;
+    height: 300px;
+}
+.box7{
+    background-color: rgb(158 237 184);
+    position: absolute;
+    top: 1620px;
+    width: 97%;
+    height: 35px;
+}
+#button1{
+    color: white;
+    border-radius: 6px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(247, 9, 128);
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+#button2{
+    color: white;
+    border-radius: 6px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(247, 9, 128);
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+#button3{
+    color: white;
+    border-radius: 6px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(247, 9, 128);
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
+#button4{
+    color: white;
+    border-radius: 6px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(247, 9, 128);
+    position: relative;
+    top: 10px;
+    left: 400px;
+}
+#button5{
+    color: white;
+    border-radius: 6px;
+    font-size: medium;
+    border: none;
+    background-color: rgb(247, 9, 128);
+    position: relative;
+    top: 10px;
+    left: 500px;
+}
+.box8{
+    position: relative;
+    top: 920px;
+    width: 100%;
+    height: 350px;
+    background-color: rgb(240, 231, 248);
+}
+.box8A{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 190px;
+    height: 310px;
+    background-color: rgb(211, 206, 216);
+}
+.box8B{
+    position: absolute;
+    top: 15px;
+    left: 350px;
+    width: 190px;
+    height: 310px;
+    background-color: rgb(211, 206, 216);
+}
+.box8C{
+    position: absolute;
+    top: 15px;
+    left: 650px;
+    width: 190px;
+    height: 310px;
+    background-color: rgb(211, 206, 216);
+}
+.box8D{
+    position: absolute;
+    top: 15px;
+    left: 970px;
+    width: 190px;
+    height: 310px;
+    background-color: rgb(211, 206, 216);
+}
+.NewLaunch{
+    color: rgb(213, 250, 81);
+    width: 100px;
+    background-color: rgb(250, 64, 64);
+    position: relative;
+    left: 20px;
+}
+.footer{
+    position: relative;
+    top: 960px;
+}
+#shop{
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    width: 350px;
+}
+#help{
+    width: 300px;
+    position: absolute;
+    left: 760px;
+    top: 0px;
+}
+.company{
+    list-style: none;
+    position: absolute;
+    top: 0px;
+    left: 1100px;
+}
+#companyhead{
+    font-weight: bold;
+}
+#footimage{
+    width: 150px;
+}
+#subscribe{
+    font-style: italic;
+    position: absolute;
+    top: 130px;
+}
